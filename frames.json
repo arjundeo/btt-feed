@@ -1,5 +1,3 @@
 { "frames" : [
- { "icon":996,"text": "4 Min", "index":0 }
- ,
- { "icon":996,"text": "7 Min", "index":1 }
+ { "icon":996,"text": "25 Min", "index":0 }
  ] } 
